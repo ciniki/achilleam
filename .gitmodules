@@ -1,0 +1,60 @@
+[submodule "site/ciniki-mods/core"]
+	path = site/ciniki-mods/core
+	url = git://github.com/ciniki/core.git
+[submodule "site/ciniki-mods/users"]
+	path = site/ciniki-mods/users
+	url = git://github.com/ciniki/users.git
+[submodule "site/ciniki-mods/businesses"]
+	path = site/ciniki-mods/businesses
+	url = git://github.com/ciniki/businesses.git
+[submodule "site/ciniki-mods/web"]
+	path = site/ciniki-mods/web
+	url = git://github.com/ciniki/web.git
+[submodule "site/ciniki-mods/images"]
+	path = site/ciniki-mods/images
+	url = git://github.com/ciniki/images.git
+[submodule "site/ciniki-mods/blog"]
+	path = site/ciniki-mods/blog
+	url = git://github.com/ciniki/blog.git
+[submodule "site/ciniki-mods/bugs"]
+	path = site/ciniki-mods/bugs
+	url = git://github.com/ciniki/bugs.git
+[submodule "site/ciniki-mods/calendars"]
+	path = site/ciniki-mods/calendars
+	url = git://github.com/ciniki/calendars.git
+[submodule "site/ciniki-mods/cron"]
+	path = site/ciniki-mods/cron
+	url = git://github.com/ciniki/cron.git
+[submodule "site/ciniki-mods/customers"]
+	path = site/ciniki-mods/customers
+	url = git://github.com/ciniki/customers.git
+[submodule "site/ciniki-mods/sapos"]
+	path = site/ciniki-mods/sapos
+	url = git://github.com/ciniki/sapos.git
+[submodule "site/ciniki-mods/events"]
+	path = site/ciniki-mods/events
+	url = git://github.com/ciniki/events.git
+[submodule "site/ciniki-mods/gallery"]
+	path = site/ciniki-mods/gallery
+	url = git://github.com/ciniki/gallery.git
+[submodule "site/ciniki-mods/herbalist"]
+	path = site/ciniki-mods/herbalist
+	url = git://github.com/ciniki/herbalist.git
+[submodule "site/ciniki-mods/info"]
+	path = site/ciniki-mods/info
+	url = git://github.com/ciniki/info.git
+[submodule "site/ciniki-mods/mail"]
+	path = site/ciniki-mods/mail
+	url = git://github.com/ciniki/mail.git
+[submodule "site/ciniki-mods/subscriptions"]
+	path = site/ciniki-mods/subscriptions
+	url = git://github.com/ciniki/subscriptions.git
+[submodule "site/ciniki-mods/sysadmin"]
+	path = site/ciniki-mods/sysadmin
+	url = git://github.com/ciniki/sysadmin.git
+[submodule "site/ciniki-mods/taxes"]
+	path = site/ciniki-mods/taxes
+	url = git://github.com/ciniki/taxes.git
+[submodule "site/ciniki-mods/tutorials"]
+	path = site/ciniki-mods/tutorials
+	url = git://github.com/ciniki/tutorials.git
