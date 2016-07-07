@@ -61,9 +61,6 @@
 [submodule "site/ciniki-lib/PHPWord"]
 	path = site/ciniki-lib/PHPWord
 	url = https://github.com/phpoffice/phpword
-[submodule "site/ciniki-lib/PHPExcel"]
-	path = site/ciniki-lib/PHPExcel
-	url = https://github.com/phpoffice/phpexcel
 [submodule "site/ciniki-lib/PHPMailer"]
 	path = site/ciniki-lib/PHPMailer
 	url = https://github.com/phpmailer/phpmailer
