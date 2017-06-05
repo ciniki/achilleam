@@ -64,3 +64,6 @@
 [submodule "site/ciniki-lib/PHPMailer"]
 	path = site/ciniki-lib/PHPMailer
 	url = https://github.com/phpmailer/phpmailer
+[submodule "site/ciniki-mods/links"]
+	path = site/ciniki-mods/links
+	url = https://github.com/ciniki/links.git
