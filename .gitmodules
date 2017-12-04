@@ -4,9 +4,6 @@
 [submodule "site/ciniki-mods/users"]
 	path = site/ciniki-mods/users
 	url = git://github.com/ciniki/users.git
-[submodule "site/ciniki-mods/businesses"]
-	path = site/ciniki-mods/businesses
-	url = git://github.com/ciniki/businesses.git
 [submodule "site/ciniki-mods/web"]
 	path = site/ciniki-mods/web
 	url = git://github.com/ciniki/web.git
