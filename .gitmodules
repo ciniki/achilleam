@@ -39,7 +39,7 @@
 	url = git://github.com/ciniki/gallery.git
 [submodule "site/ciniki-mods/herbalist"]
 	path = site/ciniki-mods/herbalist
-	url = git://github.com/ciniki/herbalist.git
+	url = https://github.com/ciniki/herbalist.git
 [submodule "site/ciniki-mods/info"]
 	path = site/ciniki-mods/info
 	url = git://github.com/ciniki/info.git
@@ -67,3 +67,6 @@
 [submodule "site/ciniki-mods/links"]
 	path = site/ciniki-mods/links
 	url = https://github.com/ciniki/links.git
+[submodule "site/ciniki-mods/tenants"]
+	path = site/ciniki-mods/tenants
+	url = https://github.com/ciniki/tenants
