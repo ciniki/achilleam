@@ -55,12 +55,6 @@
 [submodule "site/ciniki-mods/tutorials"]
 	path = site/ciniki-mods/tutorials
 	url = https://github.com/ciniki/tutorials.git
-[submodule "site/ciniki-lib/PHPWord"]
-	path = site/ciniki-lib/PHPWord
-	url = https://github.com/phpoffice/phpword
-[submodule "site/ciniki-lib/PHPMailer"]
-	path = site/ciniki-lib/PHPMailer
-	url = https://github.com/phpmailer/phpmailer
 [submodule "site/ciniki-mods/links"]
 	path = site/ciniki-mods/links
 	url = https://github.com/ciniki/links.git
