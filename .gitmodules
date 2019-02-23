@@ -61,3 +61,6 @@
 [submodule "site/ciniki-mods/tenants"]
 	path = site/ciniki-mods/tenants
 	url = https://github.com/ciniki/tenants
+[submodule "site/ciniki-mods/products"]
+	path = site/ciniki-mods/products
+	url = https://github.com/ciniki/products
