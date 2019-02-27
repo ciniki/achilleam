@@ -64,3 +64,6 @@
 [submodule "site/ciniki-mods/products"]
 	path = site/ciniki-mods/products
 	url = https://github.com/ciniki/products
+[submodule "site/ciniki-mods/audio"]
+	path = site/ciniki-mods/audio
+	url = https://github.com/ciniki/audio
